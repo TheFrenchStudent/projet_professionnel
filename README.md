@@ -1,6 +1,6 @@
 # Projet Professionnel
 
-Migration d'une infrastructure sur le cloud & proposition d'une nouvelle infrastructure réseau. Se référer au document Instructions pour plus d'explications sur le projet.
+Migration d'une infrastructure sur le cloud & proposition d'une nouvelle infrastructure réseau. Se référer au document Projet Professionnel - ASI-3-21-SRA pour plus d'explications sur le projet.
 Il y aura 4 grandes parties :
 
 * La partie Infrastructure qui recensera l'architecture système Cloud Azure
